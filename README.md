@@ -3,4 +3,4 @@ On this application we are gonna be asked to create a simple calendar that allow
 ## Prerequisites
 To run this project you will need to use any text editor, such as VSCode, which is a free one and easy to use.
 ## Deploy application
-http://127.0.0.1:5500/Work-Day-Scheduler/Develop/index.html
+https://fabianffc.github.io/Work-Day-Scheduler/
